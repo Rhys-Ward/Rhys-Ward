@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhys Ward</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Rhys Ward</h1>
 <h3 align="center">A Passionate Frontend Developer and 3D Model Artist from Manchester, UK</h3>
 
 
