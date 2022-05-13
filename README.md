@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhys Ward</h1>
 <h3 align="center">A passionate frontend developer from Manchester, UK</h3>
-<div style='position:relative; padding-bottom:calc(56.20% + 44px)'><iframe src='https://gfycat.com/ifr/HelplessFarawayAsianlion' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/helplessfarawayasianlion">via Gfycat</a></p>
+<img src='https://gfycat.com/ifr/HelplessFarawayAsianlion' height= "400" align="right" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
 - 🌱 I’m currently learning **Three.js**
