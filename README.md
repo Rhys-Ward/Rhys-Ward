@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhys Ward</h1>
 <h3 align="center">A passionate frontend developer from Manchester, UK</h3>
-<img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47n0dlw6g73iyt4ngu1hit80etd53ofj7x0pn6npvv&rid=giphy.gif&ct=g" align="right" height="400" alt="vscode">
+<img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47n0dlw6g73iyt4ngu1hit80etd53ofj7x0pn6npvv&rid=giphy.gif&ct=g" align="right" height="200" alt="vscode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
 - 🌱 I’m currently learning **Three.js**
