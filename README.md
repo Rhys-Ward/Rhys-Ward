@@ -1,9 +1,10 @@
 <img src="https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif" alt="pixel art" height="200" width="100%" align="center"/>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Rhys Ward</h1>
 <h3 align="center">A Passionate Frontend Developer and 3D Model Artist from Manchester, UK</h3>
+<br>
+<br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
 - 🔭 I’m currently working on [DashBored](https://github.com/Ben-Mostyn/DashboredFE)
 
