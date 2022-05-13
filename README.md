@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhys Ward</h1>
 <h3 align="center">A passionate frontend developer from Manchester, UK</h3>
-<img src="https://gfycat.com/helplessfarawayasianlion" height= "400" align="right" alt="coding">
+<img src= "https://tenor.com/view/comic-book-guy-the-simpsons-gif-5565529" height= "400" align="right" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
 - 🌱 I’m currently learning **Three.js**
