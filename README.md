@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rhys Ward</h1>
-<h3 align="center">A passionate frontend developer from Manchester, UK</h3>
+<h3 align="center">A Passionate Frontend Developer and 3D Model Artist from Manchester, UK</h3>
 <img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47n0dlw6g73iyt4ngu1hit80etd53ofj7x0pn6npvv&rid=giphy.gif&ct=g" align="right" height="200" alt="vscode">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
+- 🔭 I’m currently working on [DashBored](https://github.com/Ben-Mostyn/DashboredFE)
+
 - 🌱 I’m currently learning **Three.js**
+
+- 👯 I’m looking to collaborate on **Web Development and 3D Projects**
+
+- 💬 Ask me about **anything !**
 
 - ⚡ Fun fact **I love to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/greydayrhys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="greydayrhys" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rhys-anthony-ward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhys anthony ward" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rhys anthony ward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhys anthony ward" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,5 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhys-ward&show_icons=true&locale=en" alt="rhys-ward" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhys-ward&" alt="rhys-ward" /></p>
+
+
+
 
 
