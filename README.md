@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhys Ward</h1>
 <h3 align="center">A passionate frontend developer from Manchester, UK</h3>
-<div class="tenor-gif-embed" data-postid="5565529" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/comic-book-guy-the-simpsons-gif-5565529">Comic Book GIF</a>from <a href="https://tenor.com/search/comic-gifs">Comic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/SS8CV2rQdlYNLtBCiF" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhys-ward&label=Profile%20views&color=0e75b6&style=flat" alt="rhys-ward" /> </p>
 
 - 🌱 I’m currently learning **Three.js**
