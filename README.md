@@ -1,4 +1,4 @@
-<img src="https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif" alt="pixel art" height="200" width="100%" align="center"/>
+<img src="https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif" alt="pixel art" width="100%" />
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Rhys Ward</h1>
 <h3 align="center">A Passionate Frontend Developer and 3D Model Artist from Manchester, UK</h3>
 <br>
